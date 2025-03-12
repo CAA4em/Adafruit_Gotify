@@ -1,1 +1,1 @@
-
+FROM gotify/server
